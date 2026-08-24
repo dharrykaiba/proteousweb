@@ -92,7 +92,7 @@ function App() {
             {/* Email - full width */}
             <div className="emergency-item full-width">
               <span className="emergency-label">✉️ SOPORTE</span>
-              <a href="mailto:VENTAS@PROTEOUS.PE" className="emergency-value">VENTAS@PROTEOUS.PE</a>
+              <a href="mailto:VENTA@PROTEOUS.PE" className="emergency-value">VENTA@PROTEOUS.PE</a>
             </div>
           </div>
         </div>
@@ -126,7 +126,7 @@ function App() {
 
         {/* ===== BOTONES ===== */}
         <div className="actions">
-          <a href="mailto:VENTAS@PROTEOUS.PE" className="btn btn-primary">
+          <a href="mailto:VENTA@PROTEOUS.PE" className="btn btn-primary">
             📩 Contactar soporte
           </a>
           <a href="tel:+51958334727" className="btn btn-secondary">
